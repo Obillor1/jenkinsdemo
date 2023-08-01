@@ -19,7 +19,3 @@ pipeline {
      }
   }
 }
-
-// aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/v3q1f7h3
-// docker tag class2:latest public.ecr.aws/v3q1f7h3/class2:latest
-// docker push public.ecr.aws/v3q1f7h3/class2:latest

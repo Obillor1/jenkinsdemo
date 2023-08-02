@@ -38,3 +38,5 @@ pipeline {
 
 // docker tag private:latest 275254035816.dkr.ecr.us-east-2.amazonaws.com/private:latest
 // docker push 275254035816.dkr.ecr.us-east-2.amazonaws.com/private:latest
+
+
